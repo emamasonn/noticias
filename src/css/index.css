@@ -68,3 +68,24 @@ h2 {
   transition: all .5s ease-in;
   transform: scale(1);
 }
+
+.margin-top-20{
+  margin-top: 20px;
+}
+
+h5{
+  font-size: 1.4em;
+  text-align: center;
+}
+
+.card .card-image img {
+  height: 150px;
+}
+
+.cart-content{
+  height: 200px;
+}
+
+.padding-10{
+  padding: 0 10px;
+}

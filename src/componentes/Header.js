@@ -6,7 +6,7 @@ const Header = (props) => {
     return(
         <nav>
             <div className="nav-wrapper light-blue darken-3">
-                <h1 className="brand-logo center">{props.titulo}</h1>
+                <h1 className="brand-logo center margin-top-20">{props.titulo}</h1>
             </div>
         </nav>
     );
